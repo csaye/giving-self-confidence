@@ -6,7 +6,7 @@ public class GenerateAdjective {
 
     ArrayList<String> positiveAdjectives = new ArrayList<String>();
     
-    final static int DATA_SIZE = 379;
+    final static int DATA_SIZE = 69;
 
     public GenerateAdjective() {
         In input = new In("word-data-files/PositiveAdjectives");

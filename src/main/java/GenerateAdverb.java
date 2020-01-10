@@ -6,7 +6,7 @@ public class GenerateAdverb {
 
     ArrayList<String> positiveAdverbs = new ArrayList<String>();
     
-    final static int DATA_SIZE = 399;
+    final static int DATA_SIZE = 19;
 
     public GenerateAdverb() {
         In input = new In("word-data-files/PositiveAdverbs");
